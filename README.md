@@ -17,8 +17,8 @@ We plan to build a [Flask web app / Tkinter GUI] with a home screen for choosing
 
 ### Data Collection and Storage Plan — Author #1
 
-[Ryan: add your data collection and storage plan here.]
+Author #1 (Ryan Tran) will collect publicly available renewable electricity generation data from Our World in Data using a CSV dataset. The program will use Python's Pandas library to load, clean, and organize the data by country and year. Missing values and irrelevant data will be handled to ensure accurate comparisons. The cleaned data will be stored locally in a CSV file and loaded into a Pandas DataFrame for analysis and visualization.
 
 ### Data Analysis and Visualization Plan — Author #2
 
-Author #2 will calculate total change and year-over-year growth for each selected country. The program will display a line chart comparing generation over time and a chart ranking countries by growth over the selected period.
+Author #2 (Andres Aclan) will calculate total change and year-over-year growth for each selected country. The program will display a line chart comparing generation over time and a chart ranking countries by growth over the selected period.
