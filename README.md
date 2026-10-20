@@ -3,7 +3,7 @@
 ## Authors
 
 - Author #1: Ryan Tran ([`rytgo`](https://github.com/rytgo))
-- Author #2: [Your name] ([`andresaclan`](https://github.com/andresaclan))
+- Author #2: Andres Aclan ([`andresaclan`](https://github.com/andresaclan))
 
 ## Project Description
 
